@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AnuragPandit01
+- 👋 Hi, I’m Anurag Pandey
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning web development , DSA and Python
 - 💞️ I’m looking to collaborate on programming
 - 📫 Reach me linkdein profile (www.linkedin.com/in/anurag-pandit-2246472ba)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to code
 
 <!---
 AnuragPandit01/AnuragPandit01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
